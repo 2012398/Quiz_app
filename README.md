@@ -1,4 +1,4 @@
-# nabeel_test
+# quiz_app
 
 A new Flutter project.
 
